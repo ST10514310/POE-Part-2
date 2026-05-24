@@ -310,7 +310,7 @@ public class Message {
             System.out.println("Cellphone number incorrectly formatted or does not contain international code.");
         }
 
-        //LOGIN
+        //LOGIN - Enter the Registered Information
         System.out.println(" LOGIN ");
 
         System.out.print("Enter First Name: ");
