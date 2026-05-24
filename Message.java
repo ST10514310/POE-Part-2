@@ -124,8 +124,6 @@ public class Message {
         String[] words = message.split(" ");
         String firstWord = words[0];
         String lastWord = words[words.length - 1];
-
-        
         String cleanWord = "";
         int x = 0;
         while (x < lastWord.length()) {
