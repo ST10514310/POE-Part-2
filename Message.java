@@ -383,7 +383,7 @@ public class Message {
             return;
         }
 
-        //QUICKCHAT
+        //QUICKCHAT - Actual Application
         System.out.println("Welcome to QuickChat.");
 
         System.out.print("How many messages would you like to send? ");
