@@ -214,7 +214,7 @@ public class Message {
 
     public static void sendMessage(Scanner input) {
 
-        //keep asking for a number until they give a valid one
+        //Ask a number until they give a valid one
         String cellNum = "";
         boolean numOk = false;
         while (numOk == false) {
