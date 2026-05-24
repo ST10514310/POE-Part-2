@@ -274,7 +274,7 @@ public class Message {
 
         Scanner input = new Scanner(System.in);
 
-        //REGISTRATION
+        //REGISTRATION - User must enter information
         System.out.println(" REGISTER ");
 
         System.out.print("Enter First Name: ");
