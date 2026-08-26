@@ -179,7 +179,6 @@ public class Message {
     }
 
     public String storeMessage() {
-        //save the message to a json file
         String json = "{\"messageID\":\"" + messageID + "\","
                 + "\"numMessagesSent\":" + numMessagesSent + ","
                 + "\"recipient\":\"" + recipient + "\","
